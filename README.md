@@ -1,4 +1,4 @@
-# ⚡ LUIZA MIO — SYSTEM CORE
+# LUIZA MIO — SYSTEM CORE
 
 <!-- SYSTEM INITIALIZATION -->
 <div align="center">
