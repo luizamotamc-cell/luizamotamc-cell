@@ -3,7 +3,7 @@
 <!-- SYSTEM INITIALIZATION -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080808,50:24102F,100:080808&text=LUIZA%20MOTA&fontColor=E8D5FF&fontSize=65&fontAlignY=45&animation=fadeIn&stroke=9B59B6&strokeWidth=1&desc=DEVELOPER%20%7C%20TECH%20ENTHUSIAST%20%7C%20FUTURE%20CYBERSECURITY%20SPECIALIST&descSize=11&descAlignY=65&font=Orbitron"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080808,50:24102F,100:080808&text=LUIZA%20MIO&fontColor=E8D5FF&fontSize=65&fontAlignY=45&animation=fadeIn&stroke=9B59B6&strokeWidth=1&desc=DEVELOPER%20%7C%20TECH%20ENTHUSIAST%20%7C%20FUTURE%20CYBERSECURITY%20SPECIALIST&descSize=11&descAlignY=65&font=Orbitron"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=B57AFF&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+BOOTING...+%5D;%3E+Initializing+developer+environment...;%3E+Loading+creativity+and+technology...;%3E+Building+the+future%2C+one+line+at+a+time.;%5B+SYSTEM+ONLINE+%5D" alt="System initialization"/>
 
