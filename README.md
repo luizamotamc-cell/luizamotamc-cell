@@ -95,17 +95,17 @@ Meu objetivo é evoluir continuamente como desenvolvedora e construir uma carrei
 
 <div align="center">
 
-<a href="https://github.com/luizamota/nexus-audit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=luizamota&repo=nexus-audit&theme=transparent&hide_border=true&title_color=B57AFF&icon_color=B57AFF&text_color=C9C9D1&bg_color=080808" width="100%" />
+<a href="https://github.com/luizamotamc-cell/finance-saas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luizamotamc-cell&repo=finance-saas&theme=transparent&hide_border=true&title_color=B57AFF&icon_color=B57AFF&text_color=C9C9D1&bg_color=080808" width="100%" />
 </a>
 
 </div>
 
-### ⬡ NEXUS AUDIT
+### O FINANCE SAAS
 
 **Project Management & Software Engineering**
 
-Uma aplicação desenvolvida para demonstrar conhecimentos em desenvolvimento backend, organização de projetos e gerenciamento de dados.
+Aplicação full stack de controle financeiro com login JWT, contas, categorias, transações e dashboard com gráficos. React, NestJS, Prisma e PostgreSQL.
 
 - Backend estruturado com NestJS.
 - PostgreSQL e Prisma ORM.
@@ -115,7 +115,7 @@ Uma aplicação desenvolvida para demonstrar conhecimentos em desenvolvimento ba
 
 **Stack:** `TypeScript` `NestJS` `PostgreSQL` `Prisma` `Vitest`
 
-[↗ Access Repository](https://github.com/luizamota/nexus-audit)
+[↗ Access Repository](https://github.com/luizamotamc-cell/finance-saas)
 
 ---
 
@@ -126,7 +126,7 @@ Uma aplicação desenvolvida para demonstrar conhecimentos em desenvolvimento ba
 <a href="https://github.com/luizamota?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-080808?style=for-the-badge&logo=github&logoColor=B57AFF"/>
 </a>
-
+ 
 </div>
 
 ---
