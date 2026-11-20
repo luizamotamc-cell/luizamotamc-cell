@@ -19,33 +19,66 @@
 
 ## ◈ ABOUT ME // SOBRE MIM
 
-```bash
-┌──[ LUIZA@SYSTEM ]──[ ~/profile ]
-└─$ whoami
+## `01. ABOUT ME` — Developer Profile
 
-> Estudante de Análise e Desenvolvimento de Sistemas
-> Desenvolvedora em formação
-> Entusiasta de tecnologia, automação e inteligência artificial
-> Interessada em arquitetura de software e segurança digital
+<div align="center">
 
-└─$ cat mission.txt
+**SOFTWARE DEVELOPMENT · SYSTEM ARCHITECTURE · CYBERSECURITY**
 
-Construir soluções tecnológicas inteligentes,
-desenvolver projetos reais e explorar os limites
-entre software, inteligência artificial e cybersecurity.
+`UNDERGRADUATE STUDENT` &nbsp; `TECH ENTHUSIAST` &nbsp; `CONTINUOUS LEARNING`
 
-└─$ echo $MINDSET
+</div>
 
-"Always learning. Always building. Never static."
+```typescript
+const developer = {
+    name: "Luiza Mota",
+    education: "Systems Analysis and Development (ADS)",
+
+    interests: [
+        "Software Engineering",
+        "Backend & Full Stack Development",
+        "Database Architecture",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Cybersecurity"
+    ],
+
+    mindset: [
+        "Problem Solving",
+        "Clean Code",
+        "Scalable Solutions",
+        "Continuous Learning"
+    ],
+
+    careerGoal: "Cybersecurity & Information Security"
+};
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonada por tecnologia, programação e resolução de problemas.
+### `> Professional Overview`
 
-Atualmente, concentro meus estudos no desenvolvimento de software, construção de aplicações, bancos de dados, inteligência artificial e boas práticas de engenharia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, direcionando minha formação para os fundamentos da Engenharia de Software e o desenvolvimento de soluções tecnológicas.
 
-Meu objetivo é evoluir continuamente como desenvolvedora e construir uma carreira em **Cybersecurity / Segurança da Informação**.
+Tenho interesse na construção de aplicações, arquitetura de sistemas, desenvolvimento de APIs, modelagem e gerenciamento de bancos de dados, integração de serviços e automação de processos.
+
+Minha jornada de aprendizado também abrange tecnologias emergentes, como Inteligência Artificial e Cloud Computing, buscando compreender diferentes camadas do ecossistema de desenvolvimento e infraestrutura.
+
+### `> Engineering Mindset`
+
+Acredito que o desenvolvimento de software vai além da implementação de código. Envolve pensamento analítico, arquitetura bem estruturada, qualidade, escalabilidade, eficiência e segurança.
+
+Busco transformar conhecimentos teóricos em aplicações práticas, desenvolver projetos que resolvam problemas reais e aprimorar continuamente minhas habilidades técnicas.
+
+### `> Career Direction`
+
+Meu direcionamento profissional está voltado à **Engenharia de Software**, com objetivo de aprofundar minha especialização em **Data Science** e **Cybersecurity**, especialmente em segurança de aplicações, proteção de dados, análise de vulnerabilidades e arquiteturas seguras.
 
 ---
+
+<div align="center">
+
+`// CODE. ENGINEER. INNOVATE. SECURE.`
+
+</div>
 
 ## ◈ TECH STACK // TECNOLOGIAS
 
@@ -123,7 +156,7 @@ Aplicação full stack de controle financeiro com login JWT, contas, categorias,
 
 <div align="center">
 
-<a href="https://github.com/luizamota?tab=repositories">
+<a href="https://github.com/luizamotamc-cell?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-080808?style=for-the-badge&logo=github&logoColor=B57AFF"/>
 </a>
  
@@ -134,7 +167,7 @@ Aplicação full stack de controle financeiro com login JWT, contas, categorias,
 ## ◈ CURRENT OBJECTIVES // TERMINAL
 
 ```yaml
-SYSTEM: LUIZA_MOTA
+SYSTEM: LUIZA_MIO
 MODE: DEVELOPMENT
 VERSION: 2026.11
 
@@ -173,9 +206,9 @@ FINAL_OBJECTIVE:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizamota&show_icons=true&count_private=true&hide_border=true&bg_color=080808&title_color=B57AFF&icon_color=9B59B6&text_color=C9C9D1&ring_color=B57AFF&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizamotamc-cell&show_icons=true&count_private=true&hide_border=true&bg_color=080808&title_color=B57AFF&icon_color=9B59B6&text_color=C9C9D1&ring_color=B57AFF&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamota&layout=compact&hide_border=true&bg_color=080808&title_color=B57AFF&text_color=C9C9D1&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamotamc-cell&layout=compact&hide_border=true&bg_color=080808&title_color=B57AFF&text_color=C9C9D1&langs_count=8"/>
 
 <br/>
 
@@ -189,7 +222,7 @@ FINAL_OBJECTIVE:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luizamota&bg_color=080808&color=B57AFF&line=9B59B6&point=E0B0FF&area=true&area_color=4A205E&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20%2F%2F%20CONTRIBUTIONS"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luizamotamc-cell&bg_color=080808&color=B57AFF&line=9B59B6&point=E0B0FF&area=true&area_color=4A205E&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20%2F%2F%20CONTRIBUTIONS"/>
 
 </div>
 
@@ -199,7 +232,7 @@ FINAL_OBJECTIVE:
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=luizamota&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=luizamotamc-cell&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -209,7 +242,7 @@ FINAL_OBJECTIVE:
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/luizamota/luizamota/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/luizamotamc-cell/luizamotamc-cell/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation"/>
 
 </div>
 
@@ -219,15 +252,15 @@ FINAL_OBJECTIVE:
 
 <div align="center">
 
-<a href="https://github.com/luizamota">
+<a href="https://github.com/luizamotamc-cell">
 <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=B57AFF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<a href="https://www.linkedin.com/in/luiza-mota-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=B57AFF"/>
 </a>
 
-<a href="mailto:SEU-EMAIL">
+<a href="mailto:mioluiza503@gmail.com">
 <img src="https://img.shields.io/badge/Email-080808?style=for-the-badge&logo=gmail&logoColor=B57AFF"/>
 </a>
 
@@ -241,10 +274,10 @@ FINAL_OBJECTIVE:
 
 ### `SYSTEM STATUS: ALWAYS EVOLVING`
 
-<sub>Designed & Developed by Luiza Mota</sub>
+<sub>Designed & Developed by Luiza Mio</sub>
 
 <sub>© 2026 — BUILDING THE FUTURE, ONE COMMIT AT A TIME.</sub>
 
-<img src="https://komarev.com/ghpvc/?username=luizamota&label=PROFILE+ACCESS&color=6A329F&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=luizamotamc-cell&label=PROFILE+ACCESS&color=6A329F&style=flat-square" />
 
 </div>
